@@ -1,2 +1,4 @@
-# tinnova-back-end
-Back-end em Node JS para o desafio da Tinnova
+# Desafio Back-end da Tinnova
+
+Desafio realizado utilizando TypeScript e Node JS.
+ 
